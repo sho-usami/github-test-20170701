@@ -1,6 +1,6 @@
 ﻿<!DOCTYPE html>
 <head>
-	<title>My Second web</title>
+	<title>My Second web333</title>
 </head>
 <body>
 <h1>あなたの名前と生まれた月</h1>
